@@ -1,4 +1,4 @@
- # README Generator!
+ # Team Manager via node.js
  
  ## Demo
  
