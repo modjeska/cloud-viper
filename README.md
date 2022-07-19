@@ -17,12 +17,11 @@
 * [Questions](#questions)
     
     ## [Description](#table-of-contents)
-  
-     -Team manager is a tool I have created using node.js that users can use to manage their work staff through the mySQL database. 
-     -After creating a database, link it to your index.js with your SQL databases user/pass/port. 
-     -Following the provided structure, create tables like so.
+     - Team manager is a tool I have created using node.js that users can use to manage their work staff through the mySQL database. 
+      - After creating a database, link it to your index.js with your SQL databases user/pass/port. 
+      - Following the provided structure, create tables provided in photo below.
+      - Once you have created these tables, any answer you provide to the prompted question will transfer to your database.
   <img width="948" alt="12-sql-homework-demo-01" src="https://user-images.githubusercontent.com/105169042/179668131-dc42700e-c28f-44fe-af55-9ce3e456cc2d.png">
-     -Once you have created these tables, any answer you provide to the prompted question will transfer to your database.
   
     ## [Installation](#table-of-contents)
   
