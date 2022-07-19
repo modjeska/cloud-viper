@@ -1,4 +1,4 @@
- # Team Manager
+ # Team Manager via CMS
  
  ## Demo
  
