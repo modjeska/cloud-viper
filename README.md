@@ -1,7 +1,8 @@
- # Team Manager via node.js
+ # Team Manager
  
  ## Demo
  
+ [Module 12 Video.webm](https://user-images.githubusercontent.com/105169042/179670425-f3aab895-8941-491d-ab78-c02983f07189.webm)
 
 ![badge](https://img.shields.io/badge/license-mit-blue)
   
@@ -17,9 +18,11 @@
     
     ## [Description](#table-of-contents)
   
-    Helps users manage team members/departments/roles inside of mySQL database.
-  
-    Users can access this by using node.js.
+    Team manager is a tool I have created using node.js that users can use to manage their work staff through the mySQL database. 
+    After creating a database, link it to your index.js with your SQL databases user/pass/port. 
+    Following the provided structure, create tables like so.
+  <img width="948" alt="12-sql-homework-demo-01" src="https://user-images.githubusercontent.com/105169042/179668131-dc42700e-c28f-44fe-af55-9ce3e456cc2d.png">
+    Once you have created these tables, any answer you provide to the prompted question will transfer to your database.
   
     ## [Installation](#table-of-contents)
   
@@ -28,6 +31,7 @@
     ## [Usage](#table-of-contents)
   
     Users can access this by using node.js.
+    Users are required to have a mySQL database.
     
     ## [License](#table-of-contents)
   
