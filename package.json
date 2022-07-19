@@ -1,0 +1,22 @@
+{
+  "name": "cloud-viper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modjeska/cloud-viper.git"
+  },
+  "author": "Dante Stargiotti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modjeska/cloud-viper/issues"
+  },
+  "homepage": "https://github.com/modjeska/cloud-viper#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
